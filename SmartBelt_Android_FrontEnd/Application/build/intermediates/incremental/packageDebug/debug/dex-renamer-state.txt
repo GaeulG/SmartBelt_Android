@@ -1,0 +1,4 @@
+#Fri Nov 17 09:48:34 KST 2017
+base.0=C\:\\Users\\kobot\\Documents\\BluetoothLeGatt_171113\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\kobot\\Documents\\BluetoothLeGatt_171113\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

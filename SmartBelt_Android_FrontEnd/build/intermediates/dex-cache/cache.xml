@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_100138ed91bd505a04ddd7b3262aceb532e7ff23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\21c76a8055060e6ac949b1d637c705558cbf1a3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_ba53420efee1ea16ab4d8b49035e3dd876de9923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\84964f31261164b1d6896795cd571a9684f9bc08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_61673b69e52bc9dd9f673938bef7ee7a230ab7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\gson-2.8.1_347e5c75cf1b2338d13eee873d83713470d32635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_341a3fabe74cff49896da35ee79c0f3d17cf41a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\cb87304b3f8088f0b8dc095a53cfca35c4f5913d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_8ec2006359dbb28ae4680b3f40724f056fa2dc23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_b2cad4a6d8541f0ab028f897301175b7d344d553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\1af2bf6328a6e42e3e5e9617bc00b35eda679bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_8d3f7049e969ff1f45d08f3d4c38cc52c5416a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\ab3066f4ad2a2356fc0fcd27399100537ab69f32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_71f639e26ca6fa93e1793c6b344bfbf33b426ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\1305dae59fb5e6397786aae4e1dc8ef680b2403b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_19827ec54b00e2891840b79264e3d36187e267a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\c99ebac09157feec5e270c5b4d4b8ed253dfd76c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_470df0f35dbc496cb230ca841f5cbe4d8fbcf304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\7e588553febcd1baa2acb3035dcf3dfe5b19cf18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_5b36ec27a2b99e09557e9a23fdbc04af94bcf245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\d1616359d5d3bed218a417decbbb4648552a484f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_8c4f53b4996de7300349deed4b74e18482e38def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\fbde5ef79f33c36403bdff59bb31a9e9ca3e4a1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_848ed1d2b9bc1beded1b72210f277fe6b031892f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\2367425ac80a3752bf691559a7a753f90453ae8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_2176c8f5f080bd572a0106ffd1e03f609fc2851e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\d17f74257bc282fe339c8cb2ab69e701e0387b3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_8e06043c8caa26e13e887e06faf9289310c97c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kobot\.android\build-cache\f11a26e1940de4ce23b148a12548dea0f1bb49ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\kobot\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_f18437a143b9fc798f3cb31379a85e4715bde8fa.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:1-86:12
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:1-86:12
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:1-86:12
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\3a2afecdc78b6afa48aa852301658c42\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\2ee2919465c1fb14c0b10460d1f13f5f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cd05a98fd7a51f40137fafe63f53d93c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\bfbef1898fac9937808fc8d8336e8bb9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\093278097a3d282cf966c60cd37a7839\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:1-86:12
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:1-86:12
+	package
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:22-63
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:32:5-34:35
+	android:required
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:9-32
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:38:5-67
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:38:22-64
+application
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:5-84:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:25:5-20
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\3a2afecdc78b6afa48aa852301658c42\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\3a2afecdc78b6afa48aa852301658c42\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\2ee2919465c1fb14c0b10460d1f13f5f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\2ee2919465c1fb14c0b10460d1f13f5f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cd05a98fd7a51f40137fafe63f53d93c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cd05a98fd7a51f40137fafe63f53d93c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:43:9-41
+	android:icon
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:9-45
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:41:9-29
+activity#com.example.android.bluetoothlegatt.SplashScreenActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:9-51:20
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:27-74
+activity#com.example.android.bluetoothlegatt.LoginActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:52:9-55:20
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:53:13-42
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:57:13-47
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:60:9-59
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:60:19-56
+activity#com.example.android.bluetoothlegatt.ShowDBActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:61:9-63:47
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:62:13-43
+activity#com.example.android.bluetoothlegatt.RegisterActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:64:9-66:47
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:65:13-45
+activity#com.example.android.bluetoothlegatt.MainActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:67:9-69:54
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:69:13-51
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:68:13-41
+activity#com.example.android.bluetoothlegatt.StatisticsActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:70:9-74:47
+	android:supportsRtl
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:73:13-39
+	android:allowBackup
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:72:13-39
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:71:13-47
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:76:9-78:38
+	android:enabled
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:78:13-35
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:77:13-47
+activity#com.example.android.bluetoothlegatt.tutorialActivity
+ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:80:9-83:20
+	android:theme
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:81:13-45
+uses-sdk
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:21:5-23:55
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\3a2afecdc78b6afa48aa852301658c42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\graphview-4.0.0.aar\3a2afecdc78b6afa48aa852301658c42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\2ee2919465c1fb14c0b10460d1f13f5f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\2ee2919465c1fb14c0b10460d1f13f5f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cd05a98fd7a51f40137fafe63f53d93c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cd05a98fd7a51f40137fafe63f53d93c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\bfbef1898fac9937808fc8d8336e8bb9\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\bfbef1898fac9937808fc8d8336e8bb9\AndroidManifest.xml:18:5-42
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\093278097a3d282cf966c60cd37a7839\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\093278097a3d282cf966c60cd37a7839\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\2fecce9ed0001224a5a9067cc28969c2\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kobot\Documents\BluetoothLeGatt_171113\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22e01d12028e475e08372cb60ff3c2cd\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5d3aad0e5ba9ce60602c0c31c297c625\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c63c2407612a8bd307e597f1da977e7b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\c09f93488e957e8597fa36763dd83c8a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7988cf61aceb4fcb9620b791fc9a9fca\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e6a19d25c32a3dbb9516ed72b382d29\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2b111f168234dba841ea34b8e70407c5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\85df3c1929263c2fe6d1eb679ad9b6d3\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\kobot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fe8ccc91e411bf801505aeae01a9670e\AndroidManifest.xml:26:9-47
